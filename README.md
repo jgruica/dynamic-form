@@ -5,8 +5,9 @@ A dynamic form app
 ## Getting Started
 
 * Clone Repo
-* Install Dependencies - npm install
+* Install Dependencies - `npm install`
 * Run `npm run dev`
+* Run tests `npm test`
 
 
 ### User Interface
