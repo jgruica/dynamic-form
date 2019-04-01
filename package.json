@@ -1,0 +1,28 @@
+{
+  "name": "dynamic-forms-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "next": "8.0.3",
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.5.0",
+    "babel-plugin-styled-components": "^1.10.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "chai": "^4.2.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "jest": "^24.5.0"
+  }
+}
